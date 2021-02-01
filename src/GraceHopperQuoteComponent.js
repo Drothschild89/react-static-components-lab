@@ -11,6 +11,9 @@ export class GraceHopperQuoteComponent extends Component {
 				</i>
 				<br />
 				&#9;-Admiral Grace Hopper
+				<CatComponent />
+				{/* <GraceHopperQuoteComponent />
+				<MouseComponent /> */}
 			</div>
 		);
 	}
